@@ -26,11 +26,11 @@ weight = 3
 
 An open platform to enable Edge computing :rocket:
 <div style="margin-top: -0.5rem;">
-  <a id="academic-release" href="https://github.com/volcano-sh/volcano" data-repo="volcano-sh/volcano">
+  <a id="academic-release" href="https://github.com/kubernetes-sigs/volcano" data-repo="kubernetes-sigs/volcano">
   Latest release <!-- V -->
   </a>
 </div>
 <div class="mt-3">
-  <a class="github-button" href="https://github.com/volcano-sh/volcano" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a>
+  <a class="github-button" href="https://github.com/kubernetes-sigs/volcano" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a>
 </div>
 <script async defer src="https://buttons.github.io/buttons.js"></script>
